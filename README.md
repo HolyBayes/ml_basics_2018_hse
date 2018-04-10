@@ -6,6 +6,7 @@ Machine Learning Basics course in Higher School of Economics (2018)
 * **31.03.2018** - [Семинар](https://github.com/Leensman/ml_basics_2018_hse/blob/master/Practice_2/Linear%20models.%20SVM.ipynb) по линейным моделям классификации и регрессии (Линейная и Логистическая регрессии, SVM). [Решенный семинар](https://github.com/Leensman/ml_basics_2018_hse/blob/master/Practice_2/Linear%20models.%20SVM%20-%20proc.ipynb)
 * **03.04.2018** - [Семинар](https://github.com/Leensman/ml_basics_2018_hse/blob/master/Practice_3/Trees.ipynb) по логическим алгоритмам классификации и регрессии (деревья). [Решённый семинар](https://github.com/Leensman/ml_basics_2018_hse/blob/master/Practice_3/Trees-proc.ipynb)
 * **07.04.2018** - [Семинар](https://github.com/Leensman/ml_basics_2018_hse/blob/master/Practice_4/Ensemble.ipynb) по ансамблям, бустингу, XGBoost, CatBoost и HyperOpt. [Решённый семинар](https://github.com/Leensman/ml_basics_2018_hse/blob/master/Practice_4/Ensemble-proc.ipynb)
+* **10.04.2018** - [Семинар](https://github.com/Leensman/ml_basics_2018_hse/blob/master/Practice_5/Anomaly.ipynb) по поиску аномалий и выбросов. [Решённый семинар](https://github.com/Leensman/ml_basics_2018_hse/blob/master/Practice_5/Anomaly-proc.ipynb)
 
 # Полезные ссылки
 * [Видеолекции](https://www.youtube.com/playlist?list=PLJOzdkh8T5kp99tGTEFjH_b9zqEQiiBtC) К.В. Воронцова
